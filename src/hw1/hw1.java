@@ -50,6 +50,11 @@ public class hw1 {
 		System.out.println(5+5);      //數字5+5
 		System.out.println(5 + '5');  //Char5是UNICODE的數字53再加上5
 		System.out.println(5+ "5");   //數字5+String的5
+		
+		
+		System.out.println("=== test ===");
+		System.out.println("=== tests2 ===");
+		System.out.println("=== test3 ===");
 
 	}
 	
