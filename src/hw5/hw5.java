@@ -59,7 +59,7 @@ public class hw5 {
 		System.out.println("========================================");
 		
 		
-		System.out.println("本次隨機產生驗證碼為: ");
+		System.out.println("本次隨機產生驗證碼為:");
 		genAuthCode();
 	}
 
